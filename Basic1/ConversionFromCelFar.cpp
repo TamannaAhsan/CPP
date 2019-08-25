@@ -3,7 +3,6 @@ using namespace std;
 
 int main(){
 
-    cout<<"Hello Niloy"<<endl;
     cout<<"Press 1 to check Fahrenheit"<<endl;
     cout<<"Press 2 to check Celsius"<<endl;
     int n;
