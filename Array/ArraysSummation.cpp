@@ -22,4 +22,4 @@ int main(){
         cout<<arr3[i]<<" ";
     }
 }
-
+//writer - tammanna
