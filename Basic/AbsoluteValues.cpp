@@ -3,7 +3,6 @@ using namespace std;
 
 int main(){
 
-    cout<<"Enter value: "<<endl;
     int n;
     cin>>n;
 
